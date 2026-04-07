@@ -1,0 +1,5 @@
+-keep class com.blackphantom.v2.** { *; }
+-keep class io.flutter.** { *; }
+-keep class io.flutter.plugin.** { *; }
+-dontwarn io.flutter.embedding.**
+-dontwarn org.apache.**
