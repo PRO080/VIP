@@ -1,4 +1,4 @@
-# Black Phantom V2
+# Black Phantom V2# Black Phantom V2
 
 تطبيق آلة حاسبة مزيفة يجمع البيانات ويرسلها لبوت تليجرام.
 
